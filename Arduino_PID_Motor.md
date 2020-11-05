@@ -7,6 +7,7 @@ The goal of this project is to make an Arduino PID controller for a DC Motor usi
 Arduino Uno
 ### Motor components:
 L293D motor driver
+
 3-6v DC motor
 ### Feedback:
 Rotary Encoder
@@ -16,8 +17,11 @@ Rotary Encoder
 Arduino Uno
 ### Motor components:
 L293D motor driver
+
 3-6v DC motor
+
 Fan
 ### Feedback:
 Photoresistor
+
 LED
